@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>MSBuildTasks</id>
-    <version>1.5.0</version>
+    <id>MSBuildTasks.Linux</id>
+    <version>1.5.0.236</version>
     <authors>LoreSoft</authors>
     <owners>LoreSoft</owners>
     <licenseUrl>http://opensource.org/licenses/bsd-license.php</licenseUrl>
     <projectUrl>https://github.com/loresoft/msbuildtasks/</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>The MSBuild Community Tasks project is a collection of open source tasks for MSBuild.</description>
+    <description>The MSBuild Community Tasks project is a collection of open source tasks for MSBuild.
+    This is a temporary package to make NUnit3 task work on Linux until PR #276 is merged.</description>
     <copyright>Copyright (c) 2016, LoreSoft</copyright>
     <language>en-US</language>
     <tags>MSBuild build tasks</tags>
